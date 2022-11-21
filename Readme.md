@@ -1,0 +1,2 @@
+## Corn Leaf Infection Detection
+This was just another ongoing project that I could not complete. Please find dataset at [Kaggle]((https://www.kaggle.com/qramkrishna/corn-leaf-infection-dataset)) and the introductory blog about it on my [GitHub Page](https://q-viper.github.io/2020/10/19/corn-infection-detection-data-preparation/).

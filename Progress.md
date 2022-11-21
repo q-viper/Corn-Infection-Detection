@@ -56,3 +56,7 @@
 ### September
 * Got help on my internet by Vikash Krishna and trying to test YOLO for corn on colab.
 * Using TrainYourOwnYolo for training. My entire images has to be rotated by 90 and only the annotation works.
+* Train unsuccessful.
+### October
+* Dataset made live at [kaggle](https://www.kaggle.com/qramkrishna/corn-leaf-infection-dataset).
+* Published blog about data preparation on [q-viper.github.io](q-viper.github.io).
