@@ -104,6 +104,15 @@ python utils/prepare_annotations.py `
   --output-path "outputs/annotation_preview.jpg"
 ```
 
+### Trained Results
+A notebook that was trained on [Kaggle](https://www.kaggle.com/code/qramkrishna/train-corn-leaf-infection-classification) is available as [notebooks/train_classification.ipynb](notebooks/train_classification.ipynb). It shows that ResNet18 performs best.
+
+![](assets/clf_results.png)
+
+Saliency maps:
+
+![](assets/clf_smap.png)
+
 ## Project Structure
 * `corn_vision/` - package code for datasets, models, losses, trainers, utilities, and shared configs.
 * `trainers/` - top-level training entrypoints.
