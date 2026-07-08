@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "corn-vision"
+version = "0.1.0"
+description = "Corn leaf infection classification and object detection experiments."
+readme = "Readme.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Ramkrishna Acharya" }
+]
+dependencies = [
+  "albumentations>=1.4",
+  "loguru>=0.7",
+  "matplotlib>=3.8",
+  "numpy",
+  "opencv-python>=4.10",
+  "pillow",
+  "pydantic>=2.0",
+  "supervision>=0.26",
+  "tqdm>=4.66",
+  "typer>=0.12",
+]
+
+[tool.setuptools.packages.find]
+include = ["corn_vision*"]
