@@ -1,6 +1,8 @@
 # Corn Leaf Infection Detection
 ~~This was just another ongoing project that I could not complete.~~ Please find the dataset on [Kaggle](https://www.kaggle.com/qramkrishna/corn-leaf-infection-dataset) and the introductory blog about it on my [GitHub Page](https://q-viper.github.io/2020/10/19/corn-infection-detection-data-preparation/).
 
+> Disclaimer **I am using AI tools for training models but the training logics are mine.**
+
 ## Experiments
 * I will train a classification model first.
 * Then I will train object detection models.
